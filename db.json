@@ -1,8 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "nombres": [
+    { "id": 1, "nombre": "Maria 1" },
+    { "id": 2, "nombre": "Maria 2" },
+    { "id": 3, "nombre": "Maria 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
